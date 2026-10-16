@@ -1,11 +1,11 @@
-# CapCut 8.1.1.3417
+# CapCut 8.1.1
 
-CapCut on Windows 10/11 x64. 564 MB. Requirements, screenshots, MoggyDay Launcher.
+CapCut for Windows. CapCut on Windows 10/11 x64. 564 MB. Requirements, screenshots, MoggyDay Launcher.
 
-Site: [EN](https://moggydayprogram.com/en/programs/capcut) · [RU](https://moggydayprogram.com/programs/capcut) · [Pages](https://calmtannerintensify.github.io/capcut-windows/)
+[Pages](https://meshherbalistknow.github.io/capcut-windows/) · [RU](https://moggydayprogram.com/programs/capcut) · [EN](https://moggydayprogram.com/en/programs/capcut)
 
 <p>
-  <a href="https://moggydayprogram.com/programs/capcut"><img src="docs/media/preview.jpg" alt="CapCut" width="640"></a>
+  <a href="https://moggydayprogram.com/programs/capcut"><img src="docs/media/preview.jpg" alt="CapCut preview" width="640"></a>
 </p>
 
 <p>
@@ -14,20 +14,12 @@ Site: [EN](https://moggydayprogram.com/en/programs/capcut) · [RU](https://moggy
   <a href="https://moggydayprogram.com/programs/capcut"><img src="docs/media/shot-3.jpg" alt="CapCut tools" width="280"></a>
 </p>
 
-## CapCut for Windows
+1. Open the RU or EN card on moggydayprogram.com
+2. Use the main button, or the launcher for large archives
 
-- Size: 564 MB
-- Updated: 15 Oct 2026
-- Windows 10/11 x64
+Category: [Video catalog](https://moggydayprogram.com/categories/video)
 
-## Links
-
-- https://moggydayprogram.com/en/programs/capcut
-- https://moggydayprogram.com/programs/capcut
-- https://moggydayprogram.com/categories/video
-
-Also: 
 - [Wondershare Filmora](https://moggydayprogram.com/programs/wondershare-filmora)
 - [Movavi Video Editor](https://moggydayprogram.com/programs/movavi-video-editor)
 
-Pages: https://calmtannerintensify.github.io/capcut-windows/
+No installer in this git repo.

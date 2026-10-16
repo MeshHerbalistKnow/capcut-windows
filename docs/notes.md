@@ -1,6 +1,6 @@
 # CapCut
 
-CapCut (ByteDance) maintains CapCut. This repo only describes the Windows build and links the live card.
+Use the EN or RU program URL. Installers are not stored in git.
 
 CapCut on Windows 10/11 x64. 564 MB. Requirements, screenshots, MoggyDay Launcher.
 
